@@ -10660,3 +10660,12 @@ a.text-dark:focus {
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
 }
 
+#myTab .nav-item a:hover {
+  border-bottom: 2px solid red;
+  background-color: #f0f0f0;
+}
+
+#myTab .nav-item a {
+  font-size: 18px;
+}
+
